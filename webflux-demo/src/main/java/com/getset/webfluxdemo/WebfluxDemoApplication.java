@@ -23,3 +23,8 @@ public class WebfluxDemoApplication {
         };
     }
 }
+
+
+run this application will happend error:
+java.lang.RuntimeException: Library 'junixsocket-native-2.0.4.dll' not found!
+how to fix this?
